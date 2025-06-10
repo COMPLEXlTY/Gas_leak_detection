@@ -1,0 +1,10 @@
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+opencv-python==4.9.0.80
+scikit-learn==1.4.2
+tensorflow==2.15.0
+keras==2.15.0
+joblib==1.4.2
+fpdf==1.7.2
+Pillow==10.3.0
